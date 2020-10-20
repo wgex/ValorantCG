@@ -1,0 +1,2 @@
+# ValorantCG
+ valorant code generator
