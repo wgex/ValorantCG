@@ -1,0 +1,9 @@
+C:\Users\hamza\source\repos\ValorantCG\bin\Release\ValorantCG.exe.config
+C:\Users\hamza\source\repos\ValorantCG\bin\Release\ValorantCG.exe
+C:\Users\hamza\source\repos\ValorantCG\bin\Release\ValorantCG.pdb
+C:\Users\hamza\source\repos\ValorantCG\obj\Release\ValorantCG.Form1.resources
+C:\Users\hamza\source\repos\ValorantCG\obj\Release\ValorantCG.Properties.Resources.resources
+C:\Users\hamza\source\repos\ValorantCG\obj\Release\ValorantCG.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\ValorantCG\obj\Release\ValorantCG.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\ValorantCG\obj\Release\ValorantCG.exe
+C:\Users\hamza\source\repos\ValorantCG\obj\Release\ValorantCG.pdb

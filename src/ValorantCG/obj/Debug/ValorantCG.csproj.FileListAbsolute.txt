@@ -1,0 +1,10 @@
+C:\Users\hamza\source\repos\ValorantCG\bin\Debug\ValorantCG.exe.config
+C:\Users\hamza\source\repos\ValorantCG\bin\Debug\ValorantCG.exe
+C:\Users\hamza\source\repos\ValorantCG\bin\Debug\ValorantCG.pdb
+C:\Users\hamza\source\repos\ValorantCG\obj\Debug\ValorantCG.csprojAssemblyReference.cache
+C:\Users\hamza\source\repos\ValorantCG\obj\Debug\ValorantCG.Form1.resources
+C:\Users\hamza\source\repos\ValorantCG\obj\Debug\ValorantCG.Properties.Resources.resources
+C:\Users\hamza\source\repos\ValorantCG\obj\Debug\ValorantCG.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\ValorantCG\obj\Debug\ValorantCG.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\ValorantCG\obj\Debug\ValorantCG.exe
+C:\Users\hamza\source\repos\ValorantCG\obj\Debug\ValorantCG.pdb
